@@ -21,3 +21,7 @@ This project is a simple TODO API built using FastAPI. It uses MongoDB for data 
    ```bash
    git clone <URL-DEL-REPOSITORIO>
    cd <NOMBRE-DEL-PROYECTO>
+2. Build and run the application:
+   ```bash
+   docker-compose up --build
+3.Access the application at http://localhost:8000.
